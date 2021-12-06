@@ -1,6 +1,6 @@
 {
   "name": "janzet/clientrest",
-  "description": "description",
+  "description": "php client to REST API, serve GET,POST,PUT,DELETE methods",
   "minimum-stability": "stable",
   "license": "proprietary",
   "authors": [
