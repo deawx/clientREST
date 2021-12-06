@@ -1,0 +1,21 @@
+{
+  "name": "janzet/clientrest",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Jan Zalesiński",
+      "email": "janzalesinski@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "App\\Controller\\" : "app/"
+    }
+  },
+  "require": {
+    "nyholm/psr7": "^1.4",
+    "ext-curl": "*"
+  }
+}
